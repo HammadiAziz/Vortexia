@@ -1,0 +1,56 @@
+{
+  "HEADER_HOME": "Accueil",
+  "MEMBERS": "Membres",
+  "PROJECTS": "Projets",
+  "HEADER_CONTACT": "Contact",
+  "WHO_WE_ARE": "Qui sommes-nous",
+  "VORTEXIA": "Vortexia",
+  "STUDIO": "Studio",
+  "STUDIO_DESC": "Vortexia Studio est un centre créatif spécialisé dans les solutions numériques innovantes, le design et la technologie. Notre équipe est passionnée par la création d'expériences uniques et de projets de haute qualité pour des clients du monde entier. Découvrez notre vision, rencontrez nos membres talentueux et explorez notre portfolio pour voir comment nous donnons vie aux idées.",
+
+  "MEMBER_AZIZ_NAME": "Med Aziz Hammadi",
+  "MEMBER_AZIZ_ROLE": "Développeur de jeux",
+  "MEMBER_AZIZ_DESC": "Expert en programmation de gameplay et systèmes interactifs.",
+
+  "MEMBER_DIANA_NAME": "Diana Mrabet",
+  "MEMBER_DIANA_ROLE": "Artiste 3D",
+  "MEMBER_DIANA_DESC": "Artiste 3D créative, passionnée par les environnements et personnages stylisés.",
+
+  "MEMBER_SALIM_NAME": "Salim Ouerghemmi",
+  "MEMBER_SALIM_ROLE": "Programmeur",
+  "MEMBER_SALIM_DESC": "Passionné par la programmation de gameplay et la création d'expériences interactives.",
+
+  "MEMBER_HEDI_NAME": "Hedi Souissi",
+  "MEMBER_HEDI_ROLE": "Designer UI/UX",
+  "MEMBER_HEDI_DESC": "Conçoit des interfaces intuitives et esthétiques pour jeux et applications.",
+
+  "SERVICES_MAIN_TITLE": "Nos Services",
+  "SERVICES_GAME_DEV": "Développement de jeux",
+  "SERVICES_GAME_FULL_PROD": "Production complète de jeux : Desktop, Mobile, VR, AR, MR",
+  "SERVICES_GAME_REMASTER": "Remasterisation / recréation de jeux",
+  "SERVICES_GAME_ENGINES": "Roblox Studio, Unity, Unreal",
+  "SERVICES_GAME_FULL_PROD_DESC": "Nous gérons l'ensemble du processus de création de jeux pour desktop, mobile, VR, AR et MR, du concept à la sortie.",
+  "SERVICES_GAME_REMASTER_DESC": "Modernisez, remasterisez ou recréez des jeux classiques avec des graphismes et fonctionnalités actuels.",
+  "SERVICES_GAME_ENGINES_DESC": "Expertise sur Roblox Studio, Unity et Unreal Engine pour tous types de projets de jeux.",
+  "SERVICES_GAME_DEV_DESC": "Nous créons des jeux immersifs et innovants pour toutes les plateformes, alliant expertise technique et vision créative pour offrir des expériences interactives inoubliables.",
+
+  "SERVICES_3D_ANIMATION": "3D & Animation",
+  "SERVICES_3D_MODEL_RIG": "Modélisation et rigging 3D",
+  "SERVICES_2D3D_ANIMATION": "Animation 2D/3D pour personnages, produits ou cinématiques",
+  "SERVICES_ANIMATED_ADS": "Publicités vidéo animées et promotions de produits",
+  "SERVICES_3D_MODEL_RIG_DESC": "Modélisation et rigging 3D de haute qualité pour personnages, objets et environnements.",
+  "SERVICES_2D3D_ANIMATION_DESC": "Animations 2D/3D professionnelles pour personnages, produits et séquences cinématiques.",
+  "SERVICES_ANIMATED_ADS_DESC": "Publicités vidéo animées et promotions de produits engageantes pour booster votre marque.",
+  "SERVICES_3D_ANIMATION_DESC": "Notre équipe donne vie à vos idées avec des modélisations 3D, animations et effets visuels époustouflants pour personnages, produits et cinématiques.",
+
+  "SERVICES_VIDEO_PROD": "Production vidéo",
+  "SERVICES_GREENSCREEN": "Tournage sur fond vert + intégration d'environnements 3D",
+  "SERVICES_MUSIC_VIDEOS": "Clips musicaux avec effets 3D",
+  "SERVICES_FESTIVAL_VISUALS": "Visuels de festival/rave synchronisés avec la musique",
+  "SERVICES_STAGE_LIGHTING": "Éclairage de scène + visuels d'écran (DMX ou synchronisation MIDI)",
+  "SERVICES_GREENSCREEN_DESC": "Tournage sur fond vert avec intégration fluide d'environnements et d'effets 3D.",
+  "SERVICES_MUSIC_VIDEOS_DESC": "Clips musicaux enrichis d'effets 3D et d'animations personnalisées.",
+  "SERVICES_FESTIVAL_VISUALS_DESC": "Visuels live pour festivals et raves, parfaitement synchronisés avec la musique.",
+  "SERVICES_STAGE_LIGHTING_DESC": "Éclairage de scène et visuels d'écran synchronisés DMX ou MIDI pour événements live.",
+  "SERVICES_VIDEO_PROD_DESC": "Nous produisons des vidéos captivantes, du tournage sur fond vert aux visuels musicaux, en mêlant prises de vue réelles et création digitale pour un impact maximal."
+}

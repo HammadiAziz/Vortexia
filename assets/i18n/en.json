@@ -1,0 +1,61 @@
+{
+  "HEADER_HOME": "Home",
+  "MEMBERS": "Members",
+  "PROJECTS": "Projects",
+  "HEADER_CONTACT": "Contact",
+  "WHO_WE_ARE": "Who we are",
+  "VORTEXIA": "Vortexia",
+  "STUDIO": "Studio",
+  "STUDIO_DESC": "Vortexia Studio is a creative hub specializing in innovative digital solutions, design, and technology. Our team is passionate about delivering unique experiences and high-quality projects for clients worldwide. Discover our vision, meet our talented members, and explore our portfolio to see how we bring ideas to life.",
+
+  "MEMBER_AZIZ_NAME": "Med Aziz Hammadi",
+  "MEMBER_AZIZ_ROLE": "Game Developer",
+  "MEMBER_AZIZ_DESC": "Expert in gameplay programming and interactive systems.",
+
+  "MEMBER_DIANA_NAME": "Diana Mrabet",
+  "MEMBER_DIANA_ROLE": "3D Artist",
+  "MEMBER_DIANA_DESC": "Creative 3D artist with a passion for stylized environments and characters.",
+
+  "MEMBER_SALIM_NAME": "Salim Ouerghemmi",
+  "MEMBER_SALIM_ROLE": "Programmer",
+  "MEMBER_SALIM_DESC": "Loves gameplay programming and building interactive experiences.",
+
+  "MEMBER_HEDI_NAME": "Hedi Souissi",
+  "MEMBER_HEDI_ROLE": "UI/UX Designer",
+  "MEMBER_HEDI_DESC": "Designs beautiful, intuitive interfaces for games and apps.",
+
+  "SERVICES_MAIN_TITLE": "Our Services",
+
+  "SERVICES_GAME_DEV": "Game Development",
+  "SERVICES_GAME_FULL_PROD": "Full game production: Desktop, Mobile, VR, AR, MR",
+  "SERVICES_GAME_REMASTER": "Game remastering / recreation",
+  "SERVICES_GAME_ENGINES": "Roblox Studio, Unity, Unreal",
+
+  "SERVICES_3D_ANIMATION": "3D & Animation",
+  "SERVICES_3D_MODEL_RIG": "3D Modeling and Rigging",
+  "SERVICES_2D3D_ANIMATION": "2D/3D Animation for characters, products, or cinematics",
+  "SERVICES_ANIMATED_ADS": "Animated video ads and product promos",
+
+  "SERVICES_VIDEO_PROD": "Video Production",
+  "SERVICES_GREENSCREEN": "Green screen filming + 3D environment integration",
+  "SERVICES_MUSIC_VIDEOS": "Music videos with 3D effects",
+  "SERVICES_FESTIVAL_VISUALS": "Festival/rave visuals synced with music",
+  "SERVICES_STAGE_LIGHTING": "Stage lighting + screen visuals (DMX or MIDI sync)",
+
+  "SERVICES_GAME_FULL_PROD_DESC": "We handle the entire process of game creation for desktop, mobile, VR, AR, and MR platforms, from concept to launch.",
+  "SERVICES_GAME_REMASTER_DESC": "Upgrade, remaster, or recreate classic games with modern graphics, features, and compatibility.",
+  "SERVICES_GAME_ENGINES_DESC": "Expertise in Roblox Studio, Unity, and Unreal Engine for all types of game projects.",
+
+  "SERVICES_3D_MODEL_RIG_DESC": "High-quality 3D modeling and rigging for characters, props, and environments.",
+  "SERVICES_2D3D_ANIMATION_DESC": "Professional 2D/3D animation for characters, products, and cinematic sequences.",
+  "SERVICES_ANIMATED_ADS_DESC": "Engaging animated video ads and product promos to boost your brand.",
+
+  "SERVICES_GREENSCREEN_DESC": "Green screen filming with seamless integration of 3D environments and effects.",
+  "SERVICES_MUSIC_VIDEOS_DESC": "Music videos enhanced with custom 3D effects and animation.",
+  "SERVICES_FESTIVAL_VISUALS_DESC": "Live visuals for festivals and raves, perfectly synced with music.",
+  "SERVICES_STAGE_LIGHTING_DESC": "Stage lighting and screen visuals with DMX or MIDI synchronization for live events.",
+
+  "SERVICES_GAME_DEV_DESC": "We create immersive, innovative games for all platforms, combining technical expertise with creative vision to deliver unforgettable interactive experiences.",
+  "SERVICES_3D_ANIMATION_DESC": "Our team brings ideas to life with stunning 3D modeling, animation, and visual effects for characters, products, and cinematic moments.",
+  "SERVICES_VIDEO_PROD_DESC": "We produce captivating videos, from green screen shoots to music visuals, blending real footage with digital artistry for maximum impact."
+}
